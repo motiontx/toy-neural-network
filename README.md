@@ -10,7 +10,7 @@ let brain = new NeuralNetwork(input_nodes, hidden_nodes, output_nodes, learning_
 *Example*
 ```javascript
 
-let brain = new NeuralNetwork(2,16,3,0.1);
+let brain = new NeuralNetwork(2, 16, 3, 0.1);
 let inputs = [in_1, in_2];
 
 //Make a prediction
@@ -23,7 +23,7 @@ brain.train(inputs, expectedOutput);
 
 ### Inspired by  ✒️
 
-**Rashid, T. Make your own neural network.**
+**Rashid, T. Make your own neural network.** (http://makeyourownneuralnetwork.blogspot.com/)
 
 **Daniel Shiffman [The Coding Train] - Session 4 - Neural Networks - Intelligence and Learning.** (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
 
