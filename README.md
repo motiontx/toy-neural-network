@@ -33,4 +33,4 @@ brain.train(inputs, expectedOutput);
 This project is under the MIT License - see the file [LICENSE.md](LICENSE) for details.
 
 ---
-⌨️ With ❤️ by [motiontx](https://github.com/motiontx) 😊
+With ❤️ by [motiontx](https://github.com/motiontx) 😊
