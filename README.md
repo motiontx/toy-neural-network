@@ -1,4 +1,4 @@
-# Toy-Neural-Network
+# Toy Neural Network
 
 Little example of a neural network programmed from scratch using [math.js](http://mathjs.org/)
 
